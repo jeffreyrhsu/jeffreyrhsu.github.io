@@ -1,3 +1,3 @@
-# jeffreyrhsu.github.io
+# Jeffrey Hsu
 
 Welcome to my personal website!
